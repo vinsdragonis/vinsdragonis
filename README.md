@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- ***I'm currently a *2nd year* Computer Science Undergraduate***
+- ***I'm looking forward to collaborating with developers on projects***
