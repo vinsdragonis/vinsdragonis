@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ***Ask me just anything! Even if I have no clue, I can always learn something new from it***
 
 <p align = "center">
-  <img src = "logo3.png" align = "center">
+  <img src = "logo4.png" align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vinsdragonis&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=000000&icon_color=576574&line_height=20" align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinsdragonis&hide_border=true&title_color=000000&layout=compact&langs_count=6" align = "center">
 </p>
