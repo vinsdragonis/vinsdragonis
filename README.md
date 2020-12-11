@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "logo4.png" align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=vinsdragonis&count_private=true&theme=algolia&show_icons=true" align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinsdragonis&count_private=true&theme=algolia&count=6&layout=compact" align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinsdragonis&count_private=true&theme=algolia&count=6height=20" align = "center">
 </p>
 
 **😀 Here's a fun fact:**
