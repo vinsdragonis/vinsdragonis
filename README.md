@@ -1,6 +1,8 @@
 ### Hi there, I'm Vineeth!! 👋
 
-<img src="Main-BG.png" width="100%">
+<p align = "center">
+  <img src = "Main-BG.png" width = "60%" align = "center">
+</p>
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
