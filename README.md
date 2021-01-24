@@ -1,5 +1,7 @@
 ### Hi there, I'm Vineeth!! 👋
 
+<img src="Main-BG.png" width="100%">
+
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
