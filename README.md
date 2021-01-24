@@ -1,10 +1,8 @@
-### Hi there, I'm Vineeth!! 👋
-
-<br>
-
 <p align = "center">
-  <img src = "Main-BG.png" width = "75%" align = "center">
+  <img src = "Main-BG.png" align = "center">
 </p>
+
+<h1>Hi there, I'm Vineeth!! 👋</h1>
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,10 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ***💻I'm currently a *2nd year* Computer Science Undergraduate***
-- ***🤝I'm looking forward to collaborating with developers on projects***
+- ***💻 I'm currently a *2nd year* Computer Science Undergraduate***
+- ***🔭 I’m currently working on Web Dev projects***
+- ***🤝 I'm looking forward to collaborating with developers on Web Development, Cyber Security projects***
 - ***📫 How to reach me: Hit one of the links below and let's talk!!***
-- ***Ask me just anything! Even if I have no clue, I can always learn something new from it***
+- ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
 
 <p align = "center">
   <img src = "logo4.png" align = "center">
@@ -35,7 +34,7 @@ Here are some ideas to get you started:
 
 <br>
 
-**😀 Here's a fun fact:**
+**⚡ Here's a fun fact:**
 <p align = "center">
   <img src = "Quote-1.png">
 </p>
