@@ -44,3 +44,4 @@ Here are some ideas to get you started:
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/vineeth-b-416205163/)
 [<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](mailto:zrexteam128@gmail.com)
 [<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](mailto:vineethbv.cs19@bmsce.ac.in)
+[<img src="mainIcon.ico" width="22px">](https://vinsdragonis.github.io/)
