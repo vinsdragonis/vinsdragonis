@@ -1,5 +1,5 @@
 <p align = "center">
-  <img src = "Main-BG.gif" align = "center">
+  <img src = "ifconfig_BG.gif" align = "center">
 </p>
 
 <h1>Hi there, I'm Vineeth!! 👋</h1>
