@@ -28,8 +28,7 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "logo4.png" align = "center">
   <br><br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=vinsdragonis&count_private=true&theme=algolia&show_icons=true&line_height=20" align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vinsdragonis&count_private=true&theme=algolia&count=6&height=20&langs_count=15&layout=compact" align = "center">
+  <img src = "https://metrics.lecoq.io/vinsdragonis?template=classic&activity=1&followup=1&isocalendar=1&private_count=true&languages=10&isocalendar.duration=half-year&activity.limit=3&activity.days=7&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true" align = "center">
 </p>
 
 <br>
