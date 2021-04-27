@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 </p>
 
-  ![My Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&activity=1&followup=1&isocalendar=1&private_count=true&languages=10&isocalendar.duration=half-year&activity.limit=5&activity.days=7&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
+  ![My Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&activity=1&followup=1&isocalendar=1&private_count=true&languages=8&isocalendar.duration=half-year&activity.limit=5&activity.days=7&activity.filter=all&config.timezone=Asia%2FCalcutta&config.animated=true)
 <br>
 
 **⚡ Here's a fun fact:**
