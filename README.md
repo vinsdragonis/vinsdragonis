@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- ***💻 I'm currently a *2nd year* Computer Science Undergraduate***
+- ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev projects***
 - ***🌱 I’m currently learning Shell scripting***
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Cyber Security projects***
