@@ -1,4 +1,4 @@
-<h1>Hi there, I'm Vineeth!! 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=950&lines=Hey+there!+I'm+Vineeth%2C+a+Computer+Science+undergraduate;I+develop+websites+and+IoT+systems%2C+and+secure+systems+and+networks;I'm+a+Web+developer%2C+aspiring+Network+Engineer+and+an+Ethical+Hacker)](https://git.io/typing-svg)
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
