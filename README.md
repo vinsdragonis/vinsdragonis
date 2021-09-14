@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 ![GitHub followers](https://img.shields.io/github/followers/vinsdragonis?style=for-the-badge)
 ![GitHub stargazers](https://img.shields.io/github/stars/vinsdragonis?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?color=%230085ff&label=Twitter&style=for-the-badge)
 
 
 ***Contact me here:***
