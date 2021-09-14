@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev and Security projects***
 - ***🌱 I’m currently learning Shell scripting***
-- ***💬 Ask me about Networks and Communication***
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Security projects***
 - ***📫 How to reach me: Hit one of the links below and let's talk!!***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
