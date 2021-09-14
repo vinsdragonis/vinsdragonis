@@ -35,9 +35,12 @@ Here are some ideas to get you started:
   <img src = "Quote-1.png">
 </p>
 
+![GitHub followers](https://img.shields.io/github/followers/vinsdragonis?style=for-the-badge)
+![GitHub stargazers](https://img.shields.io/github/stars/vinsdragonis?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?style=for-the-badge)
+
+
 ***Contact me here:***
 
 [<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/vineeth-b-416205163/)
-[<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](mailto:zrexteam128@gmail.com)
-[<img src="https://www.freepnglogos.com/uploads/gmail-email-logo-png-16.png" width="22px">](mailto:vineethbv.cs19@bmsce.ac.in)
 [<img src="mainIcon.ico" width="22px">](https://vinsdragonis.github.io/)
