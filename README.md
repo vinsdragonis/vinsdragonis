@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=950&lines=Hey+there!+I'm+Vineeth%2C+a+Computer+Science+undergraduate;I+develop+websites+and+IoT+systems%2C+and+secure+systems+and+networks;I'm+a+Web+developer%2C+aspiring+Network+Engineer+and+an+Ethical+Hacker)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=950&lines=Hey+there!+I'm+Vineeth%2C+a+Computer+Science+undergraduate;I+develop+websites+and+IoT+systems%2C+and+secure+systems+and+networks;I'm+a+Web+developer%2C+aspiring+Network+Engineer+and+an+Ethical+Hacker)](https://git.io/typing-svg)
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
-- ***🔭 I’m currently working on Web Dev projects***
+- ***🔭 I’m currently working on Web Dev and Security projects***
 - ***🌱 I’m currently learning Shell scripting***
+- ***💬 Ask me about Networks and Communication***
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Security projects***
 - ***📫 How to reach me: Hit one of the links below and let's talk!!***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
