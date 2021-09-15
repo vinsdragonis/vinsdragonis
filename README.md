@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
 
 <p align = "center">
-  <img src = "header.png" align = "center">
+  <img src = "readme banner.png" align = "center">
   <br>
 </p>
 
