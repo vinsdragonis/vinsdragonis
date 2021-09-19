@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About me:
+
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev and Security projects***
 - ***🌱 I’m currently learning Shell scripting***
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Security projects***
-- ***📫 How to reach me: Hit one of the links below and let's talk!!***
+- ***📫 How to reach me: Hit one of the links below and let's talk!!*** <a href="https://github.com/vinsdragonis/#social">👇</a>
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
+
+**Gimme a fist bump <a href="https://github.com/vinsdragonis?tab=repositories">👊</a> to check out my repositories!!**
 
 <p align = "center">
   <img src = "readme banner.png" align = "center">
@@ -43,7 +47,7 @@ Here are some ideas to get you started:
 
 ***Social Links:***
 
-<table border=2 cellpadding=10>
+<table border=2 cellpadding=10 id="#social">
   <thead>
     <tr>
       <th>Platform</th>
