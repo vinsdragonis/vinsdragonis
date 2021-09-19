@@ -27,6 +27,8 @@ Here are some ideas to get you started:
   <br>
 </p>
 
+<hr />
+
   ![My Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&repositories.forks=true&languages=1&activity=1&isocalendar=1&people=1&followup=1&stars=1&notable=1&lines=1&posts=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.details=percentage&languages.threshold=0%25&stars.limit=4&people.limit=15&people.size=15&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=7&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta)
 
 **⚡ Here's a fun fact:**
@@ -41,7 +43,40 @@ Here are some ideas to get you started:
 ![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?color=%230085ff&label=Twitter&style=for-the-badge)
 
 
-***Contact me here:***
+***Social Links:***
 
-[<img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="22px">](https://www.linkedin.com/in/vineeth-b-416205163/)
-[<img src="mainIcon.ico" width="22px">](https://vinsdragonis.github.io/)
+<table border=1 callpadding="5px">
+  <thead>
+  <tr>
+    <th>Platform</th>
+    <th>Link</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>LinkedIn</td>
+    <td>
+<a href="https://www.linkedin.com/in/vineeth-b-416205163/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="35px"></a></td>
+  </tr>
+  <tr>
+    <td>Instagram</td>
+    <td><a href="https://www.instagram.com/vins._.dragonis"><img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="35px"></a></td>
+  </tr>
+  <tr>
+    <td>Reddit</td>
+    <td><a href="https://www.reddit.com/user/KingDragonis"><img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" width="35px"></a></td>
+  </tr>
+  <tr>
+    <td>Dev Community</td>
+    <td><a href="https://dev.to/vinsdragonis"><img src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" width="35px"></a></td>
+  </tr>
+  <tr>
+    <td>Twitter</td>
+    <td><a href="https://dev.to/vinsdragonis"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="35px"></a></td>
+  </tr>
+  <tr>
+    <td>Portfolio</td>
+    <td><a href="https://vinsdragonis.github.io/"><img src="favicon (3).ico" width="35px"></a></td>
+  </tr>
+</tbody>
+</table>
