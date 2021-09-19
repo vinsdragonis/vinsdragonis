@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img src = "Quote-1.png">
 </p>
 
+[![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![GitHub followers](https://img.shields.io/github/followers/vinsdragonis?style=for-the-badge)
 ![GitHub stargazers](https://img.shields.io/github/stars/vinsdragonis?style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?color=%230085ff&label=Twitter&style=for-the-badge)
