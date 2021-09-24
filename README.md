@@ -51,7 +51,7 @@ Here are some ideas to get you started:
   <thead>
     <tr>
       <th>Platform</th>
-      <th>Route</th>
+      <th>Redirect</th>
     </tr>
   </thead>
   <tbody>
