@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ***Social Links:***
 
-<table border=2 cellpadding=10>
+<table border=1 cellpadding=15>
   <thead>
     <tr>
       <th>Platform</th>
