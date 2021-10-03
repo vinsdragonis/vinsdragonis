@@ -72,10 +72,6 @@ Here are some ideas to get you started:
       <td><a target="_blank" href="https://dev.to/vinsdragonis"><img src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" width="35px"></a></td>
     </tr>
     <tr>
-      <td>Twitter</td>
-      <td><a target="_blank" href="https://twitter.com/VDragonis"><img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" width="35px"></a></td>
-    </tr>
-    <tr>
       <td>Portfolio</td>
       <td><a target="_blank" href="https://vinsdragonis.github.io/"><img src="favicon (3).ico" width="35px"></a></td>
     </tr>
