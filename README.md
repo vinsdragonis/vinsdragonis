@@ -37,36 +37,3 @@ Here are some ideas to get you started:
   ![Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&repositories.forks=true&repositories=1&activity=1&languages=1&notable=1&pagespeed=1&people=1&followup=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=15&people.size=20&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=3&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&notable.from=all&notable.repositories=false&repositories.featured=vinsdragonis%2Fface-recognition-brain%2C%20vinsdragonis%2FTo-Do-List%2C%20vinsdragonis%2FDragon-Networks%2C%20vinsdragonis%2FNetwork-Scanner&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 
 <!-- [![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-***Social Links:***
-
-<table border=1 cellpadding=15>
-  <thead>
-    <tr>
-      <th>Platform</th>
-      <th>Redirect</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>LinkedIn</td>
-      <td><a target="_blank" href="https://www.linkedin.com/in/vineeth-b-416205163/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" width="35px"></a></td>
-    </tr>
-    <tr>
-      <td>Instagram</td>
-      <td><a target="_blank" href="https://www.instagram.com/vins._.dragonis"><img src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" width="35px"></a></td>
-    </tr>
-    <tr>
-      <td>Reddit</td>
-      <td><a target="_blank" href="https://www.reddit.com/user/KingDragonis"><img src="https://camo.githubusercontent.com/521640dc2dba501cde1805c0a42cecf5ccf7fc1378f542fe9fda756fb36add25/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7265646469742e737667" width="35px"></a></td>
-    </tr>
-    <tr>
-      <td>Dev Community</td>
-      <td><a target="_blank" href="https://dev.to/vinsdragonis"><img src="https://camo.githubusercontent.com/6cc90061976bcd4d1a61a6c76b818538b5a65754f7b7b8068fe0fa49a09def8f/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6465765f746f2e737667" width="35px"></a></td>
-    </tr>
-    <tr>
-      <td>Portfolio</td>
-      <td><a target="_blank" href="https://vinsdragonis.github.io/"><img src="favicon (3).ico" width="35px"></a></td>
-    </tr>
-  </tbody>
-</table>
