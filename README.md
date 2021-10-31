@@ -28,22 +28,15 @@ Here are some ideas to get you started:
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Security projects***
 - ***📫 How to reach me: Hit one of the links below and let's talk!!***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
+- ***⚡ Here's a fun fact: Java is to JavaScript what car is to carpet***
 
 **Gimme a fist bump <a href="https://github.com/vinsdragonis?tab=repositories">👊</a> to check out my repositories!!**
 
-  ![My Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&repositories.forks=true&languages=1&activity=1&isocalendar=1&people=1&followup=1&stars=1&notable=1&lines=1&posts=1&pagespeed=1&isocalendar.duration=half-year&languages.limit=8&languages.colors=github&languages.details=percentage&languages.threshold=0%25&stars.limit=4&people.limit=15&people.size=15&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=3&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&posts.source=dev.to&posts.descriptions=false&posts.covers=false&posts.limit=4&posts.user=.user.login&config.timezone=Asia%2FCalcutta)
+##
 
-**⚡ Here's a fun fact:**
-<p align = "center">
-  <img src = "Quote-1.png">
-</p>
+  ![Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&repositories.forks=true&repositories=1&activity=1&languages=1&notable=1&pagespeed=1&people=1&followup=1&isocalendar=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=15&people.size=20&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&activity.limit=3&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&notable.from=all&notable.repositories=false&repositories.featured=vinsdragonis%2Fface-recognition-brain%2C%20vinsdragonis%2FTo-Do-List%2C%20vinsdragonis%2FDragon-Networks%2C%20vinsdragonis%2FNetwork-Scanner&pagespeed.url=.user.website&pagespeed.detailed=true&pagespeed.screenshot=false&config.timezone=Asia%2FCalcutta&config.twemoji=true)
 
 <!-- [![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-![GitHub followers](https://img.shields.io/github/followers/vinsdragonis?style=for-the-badge)
-![GitHub stargazers](https://img.shields.io/github/stars/vinsdragonis?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/VDragonis?color=%230085ff&label=Twitter&style=for-the-badge)
-
 
 ***Social Links:***
 
