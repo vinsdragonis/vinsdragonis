@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ***🤝 I'm looking forward to collaborating with developers on Web Development, Security projects***
 - ***📫 How to reach me: Hit one of the links below and let's talk!!***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
-- ***⚡ Here's a fun fact: Java is to JavaScript what car is to carpet***
+- ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
 **Gimme a fist bump <a href="https://github.com/vinsdragonis?tab=repositories">👊</a> to check out my repositories!!**
 
