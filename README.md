@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev and Security projects***
 - ***🌱 I’m currently learning Networks and Communications***
-- ***🤝 I'm looking forward to collaborating with developers on Real-time Web Development projects***
+- ***🤝 I'm looking forward to collaborating with developers on web and app developemnt projects***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
