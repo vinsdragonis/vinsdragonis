@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### About me:
 
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
-- ***🔭 I’m currently working on Web Dev and Security projects***
+- ***🔭 I’m currently working on Web Dev and System Software projects***
 - ***🌱 I’m currently learning Operating Systems***
-- ***🤝 I'm looking forward to collaborating with developers on web and system software developemnt projects***
+- ***🤝 I'm looking forward to collaborating with developers on web and system software projects***
 - ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&isocalendar=1&notable=1&people=1&languages=1&followup=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=percentage&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=14&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=10&people.size=20&people.types=followers%2C%20following&people.identicons=false&people.shuffle=true&followup.sections=repositories&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FCalcutta)
 
-<!-- [![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
