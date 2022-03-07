@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev and System Software projects***
 - ***🌱 I’m currently learning Operating Systems***
-- ***🤝 I'm looking forward to collaborating with developers on web and system software projects***
-- ***💬 Ask me just anything! Even if I have no clue, I can always learn something new from it***
+- ***🤝 I'm looking forward to collaborating with developers on web applications and system software projects***
+- ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
 **Gimme a fist bump <a href="https://github.com/vinsdragonis?tab=repositories">👊</a> to check out my repositories!!**
