@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  <img src = "banner.png">
+  <img src = "readme banner.png">
   <br>
 </p>
 
