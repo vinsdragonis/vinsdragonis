@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ### Check out my:
 
-<!-- <a href="https://leetcode.com/vinsdragonis/"><img width="15px" padding-top="10px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"> Leetcode profile</a>
-<br/> -->
+<a href="https://leetcode.com/vinsdragonis/"><img width="15px" padding-top="10px" src="https://user-images.githubusercontent.com/36547915/97088991-45da5d00-1652-11eb-900f-80d106540f4f.png"> Leetcode profile</a>
+<br/>
 <a href="https://vinsdragonis.github.io/"><img width="15px" padding-top="10px" src="https://github.com/vinsdragonis/vinsdragonis/blob/main/icon.ico"> Portfolio page</a>
 <br/>
 <a href="https://www.linkedin.com/in/vineeth-bv/"><img width="15px" padding-top="10px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png"> Linkedin profile</a>
