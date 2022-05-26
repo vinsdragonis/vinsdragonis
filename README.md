@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/vinsdragonis?template=classic&isocalendar=1&languages=1&achievements=1&notable=1&followup=1&people=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&followup.sections=repositories&followup.indepth=false&people.limit=10&people.identicons=false&people.identicons.hide=false&people.size=20&people.types=followers%2C%20following&people.shuffle=true&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&config.timezone=Asia%2FCalcutta)
 
-<!--[![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
+[![My contributions graph](https://activity-graph.herokuapp.com/graph?username=vinsdragonis&bg_color=171717&color=01a706&line=00b3ff&point=4fff42&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Check out my:
 
