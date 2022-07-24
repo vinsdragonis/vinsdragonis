@@ -16,11 +16,16 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  <img src = "banner.png">
-  <br>
+  	<img src = "banner.png">
+  	<br>
 </p>
 
-### About me:
+##
+
+<br />
+<img src = "giphy.gif" align="right" width="250px">
+
+### About me ✌:
 
 - ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev and System Software projects***
