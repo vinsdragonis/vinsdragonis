@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=875&lines=Hey+there!+I'm+Vineeth%2C+a+CS+undergraduate+from+BMS+College+of+Engineering;I+develop+websites%2C+software+and+network+applications;I'm+a+Web+developer%2C+Software+engineer+and+an+Ethical+Hacker;I+also+have+a+keen+interest+in+System+software+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=875&lines=Hey+there!+I'm+Vineeth%2C+a+CS+undergraduate+from+BMS+College+of+Engineering;I+develop+websites%2C+software+and+network+applications;I'm+a+Web+developer%2C+Software+engineer+and+an+open+source+contributor;I+also+have+a+keen+interest+in+System+software+development;)](https://git.io/typing-svg)
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
