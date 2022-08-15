@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <p align = "center">
-  	<img src = "banner.png">
+  	<img src = "banner - open source (1).png">
   	<br>
 </p>
 
