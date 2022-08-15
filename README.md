@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### About me ✌:
 
-- ***💻 I'm currently a *3rd year* Computer Science Undergraduate***
+- ***💻 I'm currently a Computer Science Undergraduate***
 - ***🔭 I’m currently working on Web Dev, System Software and Open Source projects***
 - ***🌱 I’m currently learning Operating Systems***
 - ***🤝 I'm looking forward to collaborating with developers on web applications and system software projects***
