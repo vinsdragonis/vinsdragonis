@@ -14,5 +14,4 @@ jobs:
 				uses: ActionCloud/github-raw-url@v1
 				with:
 					github-url: https://github.com/vinsdragonis/vinsdragonis/blob/main/banner%20-%20open%20source%20(1).png
-			- name: Output conversion
 				run: echo '${{ steps.convert-to-url.outputs.raw-url }}'
