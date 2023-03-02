@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align = "center">
+<p align = "center">
   	<img src = "banner - open source (1).png" alt = "banner - open source.png">
   	<br>
-</p> -->
+</p>
 
 ##
 
-<!-- <br />
-<img src = "giphy.gif" align="right" width="250px"> -->
+<br />
+<img src = "giphy.gif" align="right" width="250px">
 
 ### About me ✌:
 
