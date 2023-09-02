@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### About me ✌:
 
-- ***💻 I'm currently a Computer Science graduate***
+- ***💻 I'm a Computer Science graduate***
 - ***🔭 I’m currently working on Web Dev, System Software, and Open Source projects***
-- ***🌱 I’m currently learning System Software Development***
-- ***🤝 I'm looking forward to collaborating with developers on web applications and system software projects***
+- ***🌱 I’m currently learning Systems Engineering and Compiler Design***
+- ***🤝 I'm looking forward to collaborating with developers on web applications, systems engineering, compiler design, and programming languages projects***
 - ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
