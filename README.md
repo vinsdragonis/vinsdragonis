@@ -27,16 +27,18 @@ Here are some ideas to get you started:
 
 ### About me ✌:
 
-- ***💻 I'm a Computer Science graduate***
-- ***🔭 I’m currently working on Web Dev, System Software, and Open Source projects***
+- ***💻 I'm a Software Engineer***
+- ***🔭 I’m currently working on Web Dev, ERP systems, and Open Source projects***
 - ***🌱 I’m currently learning Systems Engineering and Compiler Design***
-- ***🤝 I'm looking forward to collaborating with developers on web applications, systems engineering, compiler design, and programming languages projects***
+- ***🤝 I'm looking forward to collaborating with developers on web / app applications, systems engineering, compiler design, and programming languages projects***
 - ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
 **Gimme a fist bump <a href="https://github.com/vinsdragonis?tab=repositories">👊</a> to check out my repositories!!**
 
 [![Vineeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinsdragonis&bg_color=212121&color=ffffff&line=5c85ff&point=4df3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinsdragonis" alt="swati082001" />
 
 <!-- [![@vinsdragonis's Holopin board](https://holopin.io/api/user/board?user=vinsdragonis)](https://holopin.io/@vinsdragonis) -->
 
