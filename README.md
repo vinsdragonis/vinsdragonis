@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 [![Vineeth's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vinsdragonis&bg_color=212121&color=ffffff&line=5c85ff&point=4df3ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinsdragonis" alt="swati082001" />
+<!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinsdragonis" alt="vinsdragonis" /> -->
 
 <!-- [![@vinsdragonis's Holopin board](https://holopin.io/api/user/board?user=vinsdragonis)](https://holopin.io/@vinsdragonis) -->
 
