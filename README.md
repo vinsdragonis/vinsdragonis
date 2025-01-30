@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ### About me ✌:
 
 - ***💻 I'm a Software Engineer***
-- ***🔭 I’m currently working on Web Dev, ERP systems, and Open Source projects***
-- ***🌱 I’m currently learning Systems Engineering and Compiler Design***
+- ***🔭 I’m currently working on Web Dev, Generative AI, and Open Source projects***
+- ***🌱 I’m currently learning Generative AI and Compiler Design***
 - ***🤝 I'm looking forward to collaborating with developers on web / app applications, systems engineering, compiler design, and programming languages projects***
 - ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
