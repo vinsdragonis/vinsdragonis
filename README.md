@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=875&lines=Hey+there!+I'm+Vineeth%2C+a+CS+grad+from+BMS+College+of+Engineering;I+develop+websites%2C+software+and+network+applications;I'm+a+Web+developer%2C+Software+engineer+and+an+Open+Source+Contributor;I+also+have+a+keen+interest+in+Systems+engineering;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=875&lines=Hey+there!+I'm+Vineeth%2C+a+Research+Fellow+from+ADA;I+develop+websites%2C+software+and+network+applications;I'm+a+Web+developer%2C+Software+engineer+and+an+Open+Source+Contributor;I+also+have+a+keen+interest+in+Generative+AI;)](https://git.io/typing-svg)
 
 <!--
 **vinsdragonis/vinsdragonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### About me ✌:
 
-- ***💻 I'm a Software Engineer***
+- ***💻 I'm a Research Fellow***
 - ***🔭 I’m currently working on Web Dev, Generative AI, and Open Source projects***
-- ***🌱 I’m currently learning Generative AI and Compiler Design***
-- ***🤝 I'm looking forward to collaborating with developers on web / app applications, systems engineering, compiler design, and programming languages projects***
+- ***🌱 I’m currently learning Generative AI and Microservice applications***
+- ***🤝 I'm looking forward to collaborating with developers on web/app applications, systems engineering, compiler design, and programming languages projects***
 - ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
