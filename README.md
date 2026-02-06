@@ -27,10 +27,10 @@ Here are some ideas to get you started:
 
 ### About me ✌:
 
-- ***💻 I'm a Research Fellow***
+- ***💻 I'm a Software Engineer***
 - ***🔭 I’m currently working on Web Dev, Generative AI, and Open Source projects***
 - ***🌱 I’m currently learning Generative AI and Microservice applications***
-- ***🤝 I'm looking forward to collaborating with developers on web/app applications, systems engineering, compiler design, and programming languages projects***
+- ***🤝 I'm looking forward to collaborating with developers on Web/App applications, Cloud-based applications, and Agentic AI projects***
 - ***💬 Ask me anything! Even if I have no clue, I can always learn something new from it***
 - ***⚡ Here's a fun fact: Samsung is 38 years and 1 month older than Apple***
 
